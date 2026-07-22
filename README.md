@@ -2,7 +2,7 @@
 
 ## Description
 This is a preliminary and experimental CUDA port of the code SLOTH from the CEA (French Nuclear Agency)  
-Note: This is an INDEPENDANT port, the author of this port is NOT affiliated with the CEA
+Note: This is an independant port, the author of this port is not affiliated with the CEA
 
 ## Key Concepts
 For now only the Cahn-Hilliard part is done (see 3d test below).
