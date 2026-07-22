@@ -11,7 +11,7 @@ The port is one GPU for now, and can be extended to CUDA-aware MPI for multiple 
 
 ## Remarks
 - Other functionalities can be implemented following the same logic
-- Multiple GPUs implementation coulb be implmeented soon, if enough people demand it
+- Multiple GPUs implementation coulb be implemented soon, if enough people demand it
 - Code will be given only on demand
 - This code is based on SLOTH, see: https://github.com/Collab4Sloth/SLOTH for the repository of the original code, license and authors
 
@@ -28,6 +28,7 @@ Tested with Nvidia RTX 4000 laptop
 
 ![BUBBLE0](kb_0.png)
 ![BUBBLE1](kb_1.png)
+![BUBBLE1](kb_2.png)
 ![BUBBLE2](kb_5.png)
 
 
